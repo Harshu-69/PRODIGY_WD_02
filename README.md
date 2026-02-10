@@ -24,8 +24,9 @@ This project focuses on building a functional stopwatch with a modern UI that wo
 - **JavaScript** – Stopwatch logic and interactivity  
 
 ---
-
-## 🌐 Live Demo
+🔗 Live Demo & GitHub Repository
+🚀 Live Demo: https://harshu-69.github.io/PRODIGY_WD_02/
+📂 GitHub Repo : https://github.com/Harshu-69/PRODIGY_WD_02
 
 ---
 
